@@ -70,3 +70,29 @@ Conexões privadas diretas com Microsoft 365, Dynamics 365 e Azure.
 Disponível em diferentes velocidades, de 50 Mbps a 100 Gbps.
 
 Pode ser combinado com VPNs para soluções híbridas.
+
+
+Explicação:
+A Defesa em Profundidade (Defense in Depth) é uma estratégia de segurança cibernética que usa múltiplas camadas de proteção para reduzir o risco de ataques e limitar seu impacto caso um invasor consiga ultrapassar uma camada.
+
+Essa abordagem assume que nenhuma camada de segurança é 100% infalível e, por isso, implementa diversas barreiras para dificultar a movimentação do atacante dentro do sistema.
+
+Camada de perímetro
+
+Explicação:
+A camada de perímetro na estratégia de Defesa em Profundidade é responsável por proteger a rede contra ameaças externas antes que elas alcancem os recursos internos. Essa camada ajuda a prever e impedir ataques baseados em rede, como DDoS, varredura de portas e tentativas de invasão.
+
+
+
+
+rincipais medidas de segurança na camada de perímetro:
+🔹 Firewalls de próxima geração (NGFW) – Bloqueiam tráfego malicioso com regras de segurança avançadas.
+🔹 Sistemas de Prevenção e Detecção de Intrusões (IPS/IDS) – Monitoram e identificam tráfego suspeito.
+🔹 Proteção contra ataques DDoS – Serviços como Azure DDoS Protection ajudam a mitigar ataques de negação de serviço.
+🔹 VPNs e gateways seguros – Permitem conexões seguras entre redes remotas e o Azure.
+
+
+
+
+
+
